@@ -40,48 +40,15 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="mailto:fahimquazi7866@gmail.com">
+<a href="mailto:fahimquazi27@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <!-- Replace with your LinkedIn URL -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/fahimquazi">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FahimQuazi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimQuazi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FahimQuazi&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahimQuazi&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## ⏱️ Coding Activity
-
-<p align="center">
-<img src="https://wakatime.com/share/@fahimquazi/583759cf-eb68-478a-918f-d485ee9eb49e.svg"/>
 </p>
 
 ---
