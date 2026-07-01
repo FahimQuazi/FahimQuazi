@@ -90,26 +90,6 @@ const fahim = {
 
 ---
 
-# ⏱ Coding Activity
-
-<p align="center">
-
-<img src="https://wakatime.com/share/@fahimquazi/583759cf-eb68-478a-918f-d485ee9eb49e.svg"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FahimQuazi&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
 # 💻 Current Focus
 
 ✔ Building Official University Websites
